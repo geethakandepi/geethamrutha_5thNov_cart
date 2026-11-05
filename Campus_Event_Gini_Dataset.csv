@@ -1,0 +1,15 @@
+Weather,Venue,Registration_Level,Equipment_Status,Event_Decision
+Sunny,Open_Ground,High,Available,Proceed
+Sunny,Open_Ground,Low,Available,Proceed
+Rainy,Open_Ground,High,Available,Postpone
+Cloudy,Auditorium,High,Available,Proceed
+Rainy,Open_Ground,Low,Unavailable,Postpone
+Cloudy,Open_Ground,High,Available,Proceed
+Windy,Open_Ground,High,Available,Postpone
+Sunny,Auditorium,Low,Available,Proceed
+Rainy,Auditorium,High,Available,Proceed
+Windy,Open_Ground,Low,Unavailable,Postpone
+Cloudy,Auditorium,Low,Available,Proceed
+Sunny,Open_Ground,High,Unavailable,Postpone
+Rainy,Open_Ground,High,Unavailable,Postpone
+Windy,Auditorium,Low,Available,Proceed
